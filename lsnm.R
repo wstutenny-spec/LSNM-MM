@@ -6,7 +6,7 @@ source("microb_skew.R")
 
 
 
-lsnm=function(W_count,range_G){
+lsnm=function(W_count,G){
   
   #algorithm to get the result
   const=NULL
